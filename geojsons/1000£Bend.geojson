@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "1000 £ Bend",
+        "review": "5 star",
+        "address": "361 Little Lonsdale St, Melbourne VIC 3000",
+        "contributor": "lhugrass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96115565299985,
+          -37.81164871998913
+        ]
+      }
+    }
+  ]
+}

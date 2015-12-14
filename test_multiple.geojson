@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "MadeUpbar",
+        "contributor": "yogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9755859375,
+          -37.768000831567605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "madeupbar2",
+        "contributor": "yogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0030517578125,
+          -37.74574303801685
+        ]
+      }
+    }
+  ]
+}

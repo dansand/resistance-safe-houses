@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "heart attack & vine",
+        "review": "amazing!!",
+        "address": "337 lygon street, carlton",
+        "contributor": "Lisa"
+      },
+      
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96727108955383,
+          -37.797411726827015
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Grub Street",
+        "address": "87-89 Moor St, Fitzroy VIC 3065",
+        "review": "Table tennis with your fried eggs. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97741520404816,
+          -37.801457617743004
+        ]
+      }
+    }
+  ]
+}

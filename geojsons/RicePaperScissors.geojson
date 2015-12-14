@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00f3e8",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Rice Paper Scissors",
+        "review": 4.5,
+        "address": "3000, 19 Liverpool St, Melbourne VIC 3000",
+        "contributor": "Charlie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97147679328918,
+          -37.81139443635619
+        ]
+      }
+    }
+  ]
+}

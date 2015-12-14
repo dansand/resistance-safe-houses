@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bar Oussou",
+        "review": "Great cheap beer and pizza, awesome world music",
+        "address": "653 Sydney Rd, Victoria VIC 3056",
+        "contributor": "Alistair Walsh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96297419071198,
+          -37.761819960896084
+        ]
+      }
+    }
+  ]
+}

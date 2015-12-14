@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "The B.East",
+        "Address": "80 Lygon Street",
+        "Review": "Two Birds IPA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9711549282074,
+          -37.776333057365605
+        ]
+      }
+    }
+  ]
+}

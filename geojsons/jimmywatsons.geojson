@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80c0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name:": "Jimmy Watson",
+        "review:": "Never been here but heard it has a nice beer garden",
+        "address": "333 Lygon St, Carlton VIC 3053",
+        "Contributor": "Lisey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96573150157928,
+          -37.79707261642331
+        ]
+      }
+    }
+  ]
+}

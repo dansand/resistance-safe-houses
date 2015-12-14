@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "North Carlton Canteen",
+        "review": "4/5",
+        "address": "1008 Lygon St, Carlton North VIC 3054",
+        "contributor": "Laura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97298955917358,
+          -37.782425800587546
+        ]
+      }
+    }
+  ]
+}

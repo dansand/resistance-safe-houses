@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tsubu Cafe",
+        "address": " gate 6, swanston st, building 1888 university of melbourne 3010",
+        "review": "The original resistance hangout, particularly on Thursdays at 3 pm (for Hacky Hour)",
+        "contributor": "Dan Sandiford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96344089508057,
+          -37.79967736826689
+        ]
+      }
+    }
+  ]
+}

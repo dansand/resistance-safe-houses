@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name:": "The Vegie Bar",
+        "review:": "Excellent service!",
+        "address: ": "Brunswick St",
+        "contributor:": "Eve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97262477874756,
+          -37.766711690884875
+        ]
+      }
+    }
+  ]
+}
