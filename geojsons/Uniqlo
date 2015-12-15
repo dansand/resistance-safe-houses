@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "uniqlo": "",
+        "at the marker": "",
+        "excellent": "",
+        "contributor": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96374130249023,
+          -37.81236070950239
+        ]
+      }
+    }
+  ]
+}
