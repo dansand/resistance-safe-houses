@@ -3,14 +3,14 @@
 
 Collaboration using Gitub and geojson
 
-## Step 1: Forking
+## Step 1: Fork this!
 
-First, you want to fork this repository.
+There are two methods to contributing on GitHub. The first and most direct is for the owner to grant push access to you. This allows you to clone their repository directly and push changes without requiring their approval. Very convenient, but also a security nightmare and a real hassle to add and remove people from the list.
 
 <img src="images/fork.png" width="80" height="80" />
 
 
-## Step  2:
+## Step  2: Adding content in geojson format
 
 Create a new geojson file:
 
@@ -57,20 +57,20 @@ Create a new geojson file:
 
 ## Step  3:
 
-Start a new file in github, using the 'newfile' button. You will need to do this in __Your Fork__. Make sure you:
+Start a new file in github, using the `newfile` button. You will need to do this in __Your Fork__. Make sure you:
 
 * create this file in the `geojsons` directory (by clicking on that directory)
 * name this file with the .geojson extension
 
 Once you have created the file, paste in the contents of your geojson
 
-## Step  4:
+## Step  4: Create a pull request
 
-Create a pull request using the `new pull request` button
+Time to create a pull request! In the main page of your `resistance-safe-houses` repository, click the `new pull request` button.
 
 ## Step  5: Merging pull requests
 
-The owner of the repository will now `merge` in the pull requests (after carefully reviewing the quality of each safehouse). Then `pull` the changes back to a local version of the repository on her computer.
+The owner of the repository will now 'merge' in the pull requests (after carefully reviewing the quality of each safehouse). Then `pull` the changes back to a local version of the repository on her computer.
 
 ## Step  6: Python Script merge the geojsons
 
@@ -88,16 +88,17 @@ First, make a local copy of the repository using `git clone`
 git clone https://github.com/USERNAME/resistance-safe-houses
 cd resistance-safe-houses
 ```
-Pull down the `upstream` changes:
+There is one more thing left to do: keeping up to date with upstream. In Git upstream refers to some remote repository that you consider higher or more authoritative than yours. At the moment your local repository has one upstream repository, your GitHub repository. When you type git pull, that’s where it pulls from
 
 ```
-git pull https://github.com/dansand/resistance-safe-houses master
-git add .
-git commit -m "add your commit message here"
+git remote add upstream https://github.com/dansand/resistance-safe-houses.git
+git fetch upstream
+git merge upstream/master
+git push
 ```
+Push the merge to back to __your__ GitHub repository.
 
 ```
-Push the merge to your GitHub repository.
 git push origin master
 ```
 
@@ -105,9 +106,13 @@ git push origin master
 
 We embed the geojson into a gh-pages (project) web page here: http://dansand.github.io/resistance-safe-houses/
 
-
-
 #Notes
+
+##Acknowledgements
+
+The idea for this lesson came from Open Tech School:
+
+http://opentechschool.github.io/social-coding/core/underground.html
 
 ##Rendering in github
 
