@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "House of Cards",
+        "Address ": "Engineering Ln, UoM",
+        "Review": "Good coffee, good food. They donate some proceeds every month to a crowd selected cause",
+        "Address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96182084083557,
+          -37.79916235952403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Trunk",
+        "Address": "275 Exhibition St",
+        "Review": "Good coffee. They do food. Biggest attraction is a neon sign that says \"Get inside me\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9688482284546,
+          -37.80913974983743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "A Gazebo",
+        "Address": "Somewhere in the Botanic Gardens",
+        "Review": "Very pretty, solid undercover area. Lack of picnic tables however, and the bathroom block is a good 100m away. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97597217559814,
+          -37.824971957071156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Unknown",
+        "Address": "53 Moreland Rd",
+        "Review": "A combination tattoo parlour and cafe, with an in-house pizza shop.They do all day $10 breakfast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9747383594513,
+          -37.75640199766605
+        ]
+      }
+    }
+  ]
+}
