@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4765",
+        "marker-size": "medium",
+        "marker-symbol": "marker-stroked",
+        "Name": "Python Café Bar @ Old Arts",
+        "Review": "Excellent",
+        "Contributor": "Hamed Mesri",
+        "Address": "Old Arts Bldg. University of Melbourne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96012568473816,
+          -37.797983972103374
+        ]
+      }
+    }
+  ]
+}
