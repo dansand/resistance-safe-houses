@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d12c94",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "summer 500",
+        "address": "111 sea road",
+        "review": "seeeeafood",
+        "contributor": "lx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.88203048706055,
+          -37.866926127661316
+        ]
+      }
+    }
+  ]
+}
