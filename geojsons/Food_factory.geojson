@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "address": "Lunch Factory",
+        "review": "Food is technically edible",
+        "contributer": "Thomas",
+        "name": "Clover cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0447976589203,
+          -37.73379707124429
+        ]
+      }
+    }
+  ]
+}
