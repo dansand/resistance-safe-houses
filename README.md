@@ -1,6 +1,6 @@
 
-Resistance Safe Houses
-----
+# Resistance Safe Houses
+
 
 Collaboration and comradeship with github and geojson. 
-# resistance-safe-houses
+
