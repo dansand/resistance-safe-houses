@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Premiership Hotel": "Victoria Park, Crnr Turner and Rich Streets, Abbotsford",
+        "Great place to watch Collingwood's next premiership and ongoing repeats of successful campaigns and season (current and past) highlights. Only Collingwood supporters admitted": "Mark McCabe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.99716699123383,
+          -37.79928952251043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Cakewalk Hotel": "Victoria Park, Crnr Lulie and Abbot Streets",
+        "Excellent spillover pub for the Premiership Hotel. Given the record members of Collingwood FC, both pubs fill very quickly. Has all benefits of its sister Premiership Hotel": "Mark McCabe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.99542355537415,
+          -37.79714467751434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Anzac Hotel": "Victoria Park, Crnr Lulie and Turner Streets",
+        "Boutique hotel open Anzac Day and Grand Final day. Collingwood supporters given priority entry": "Mark McCabe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.99510169029236,
+          -37.799052151425414
+        ]
+      }
+    }
+  ]
+}
