@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name:": "Jardin Tan",
+        "Address:": "Botanical Gardens",
+        "Review:": "Plenty of camoflauge + won't look as weird if you run  :)",
+        "Contributer:": "Dai Barnett"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.98270988464353,
+          -37.829395553561454
+        ]
+      }
+    }
+  ]
+}
