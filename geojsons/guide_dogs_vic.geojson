@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Guide Dogs Victoria",
+        "Address": "2 Chandler Hwy, Kew",
+        "Review": "Puppies!",
+        "Contributor": "oncogone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0267517566681,
+          -37.78964146893011
+        ]
+      }
+    }
+  ]
+}
