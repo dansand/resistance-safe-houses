@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Pub",
+        "Address": "145 Pelham St",
+        "Review": "Cold Beer!!",
+        "Contributor": "Ryan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96093034744263,
+          -37.802493957499856
+        ]
+      }
+    }
+  ]
+}
