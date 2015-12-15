@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Trades Hall",
+        "Address": "54 Victoria St, Carlton VIC 3053",
+        "Review": "An obvious place, but probably the most likely",
+        "Contributor": "Kim Doyle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9663645029068,
+          -37.80665400530626
+        ]
+      }
+    }
+  ]
+}
