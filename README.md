@@ -57,9 +57,9 @@ Create a new geojson file:
 
 ## Step  3:
 
-Start a new file in github, using the newfile `button`. You will need to do this in __Your Fork__. Make sure you:
+Start a new file in github, using the 'newfile' button. You will need to do this in __Your Fork__. Make sure you:
 
-* create this file in the `geojsons` directory
+* create this file in the `geojsons` directory (by clicking on that directory)
 * name this file with the .geojson extension
 
 Once you have created the file, paste in the contents of your geojson
@@ -78,12 +78,37 @@ In the local repository, running `python merge_jsons.py` will merge the new file
 
 ## Step  7: Pull the upstream changes into your Fork
 
-## Step  8: view the results 
+Run the following commands from the directory where you want to store a local copy of your repository.
+
+First, make a local copy of the repository using `git clone`
+```
+git clone https://github.com/USERNAME/resistance-safe-houses
+cd resistance-safe-houses
+```
+Pull down the `upstream' changes:
+
+```
+git pull https://github.com/dansand/resistance-safe-houses master
+git add .
+git commit -m "add your commit message here"
+``
+
+```
+Push the merge to your GitHub repository.
+git push origin master
+```
+
+## Step  8: view the results
+
+We embed the geojson into a gh-pages (project) web page here: http://dansand.github.io/resistance-safe-houses/
+
 
 
 #Notes
 
 ##Rendering in github
+
+##Project pages in github
 
 ##Geojson format
 
