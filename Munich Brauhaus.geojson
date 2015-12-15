@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Munich Brauhaus",
+        "Address": "45 South Wharf Promenade",
+        "Review": "Good beer and good schnitzel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.94951754808426,
+          -37.82407788380532
+        ]
+      }
+    }
+  ]
+}
