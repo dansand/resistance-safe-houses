@@ -116,10 +116,26 @@ http://opentechschool.github.io/social-coding/core/underground.html
 
 ##Rendering in github
 
+ * Jupyter/IPython notebook (.ipynb) files will render directly on GitHub. GitHub encourage the adoption of the Jupyter notebook as a standard file format across a wide range of fields. Jupyter notebook files are a JSON-based open document format that supports code and results, narrative text, images, and equations in one file.
+
+ * Any .geojson file in a GitHub repository will now be automatically rendered as an interactive, browsable map, annotated with your geodata.
+
+ * images - png, etc
+
+ * pdf
+
+ * 3D (STL) File Viewing
+
 ##Project pages in github
 
 ##Geojson format
 
+GeoJSON is a format for encoding a variety of geographic data structures.
+
 ##Future of collaboration
 
 ##Git lessons
+
+Learn the basics of git (as opposed to github), with these Software Carpentry lessons:
+
+http://swcarpentry.github.io/git-novice/
