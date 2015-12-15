@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "The Resident": "246 High Street",
+        "Good coffee, outdoor seating, and multiple avenues of escape.": "Aidan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.08031010627747,
+          -37.8637202549922
+        ]
+      }
+    }
+  ]
+}
