@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Joe's Shoe Store",
+        "Contributor": "Dean Freestone",
+        "Address": "233 High St, Northcote VIC 3070",
+        "Review": "Great Pizza and Ambiance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.99810576438904,
+          -37.773140208521966
+        ]
+      }
+    }
+  ]
+}
