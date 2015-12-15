@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Venue": "Cat cafe",
+        "Address": "375 Queen street",
+        "Review": "Cats will sooth nerves during apocalypse",
+        "contributor": "Leonie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95833396911618,
+          -37.809614426404934
+        ]
+      }
+    }
+  ]
+}
