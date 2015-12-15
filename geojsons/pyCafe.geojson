@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "pyCafe",
+        "Address": "Dandenong",
+        "Review": "4.5 stars",
+        "Contributor": "Warwick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2114486694336,
+          -38.036194062376275
+        ]
+      }
+    }
+  ]
+}
