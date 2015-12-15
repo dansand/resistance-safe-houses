@@ -74,24 +74,27 @@ The owner of the repository will now `merge` in the pull requests (after careful
 
 ## Step  6: Python Script merge the geojsons
 
-In the local repository, running `python merge_jsons.py` will merge the new files (merge all *.json files in the geojsons directory)
+In the local repository, the owner can now run`python merge_jsons.py` will merge the new files (merge all *.json files in the geojsons directory)
+
+Don't forget to push these changes back to github..
 
 ## Step  7: Pull the upstream changes into your Fork
 
 Run the following commands from the directory where you want to store a local copy of your repository.
 
 First, make a local copy of the repository using `git clone`
+
 ```
 git clone https://github.com/USERNAME/resistance-safe-houses
 cd resistance-safe-houses
 ```
-Pull down the `upstream' changes:
+Pull down the `upstream` changes:
 
 ```
 git pull https://github.com/dansand/resistance-safe-houses master
 git add .
 git commit -m "add your commit message here"
-``
+```
 
 ```
 Push the merge to your GitHub repository.
