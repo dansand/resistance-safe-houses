@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from json import load, JSONEncoder
 import json
 from optparse import OptionParser
@@ -6,14 +7,15 @@ import glob
 import os
 
 ###########################################
-#Remove any files with bad lat/lon
+#Remove any files not 'close' to Melbourne
+###########################################
 files = glob.glob("geojsons/*.geojson")
 for fname in files:
     with open(fname) as f:
         data = json.load(f)
         lon = data['features'][0]['geometry']['coordinates'][0]
         lat = data['features'][0]['geometry']['coordinates'][1]
-        if (-90 < lat < 90) and (0 < lon < 360):
+        if (-45 < lat < 35) and (142 < lon < 150):
             print(fname,"okay")
         else:
             print(fname, "bad")
@@ -21,14 +23,13 @@ for fname in files:
 
 
 ###########################################
+#Merge Jsons
+###########################################
 
 float_pat = compile(r'^-?\d+\.\d+(e-?\d+)?$')
 charfloat_pat = compile(r'^[\[,\,]-?\d+\.\d+(e-?\d+)?$')
 
-parser = OptionParser(usage="""%prog [options]
-Group multiple GeoJSON files into one output file.
-Example:
-  python %prog -p 2 input-1.json input-2.json output.json""")
+parser = OptionParser()
 
 defaults = dict(precision=6)
 
