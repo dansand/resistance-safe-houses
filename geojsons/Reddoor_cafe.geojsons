@@ -1,0 +1,14 @@
+"type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Cafe Name": "Red Door",
+        "Address ": "Mitchell St somehwere",
+        "Review": "Decent coffee, good food, but the occasional pretentious staff member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -214.99481320381165,
+          -37.77283702911986
