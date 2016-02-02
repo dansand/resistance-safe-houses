@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "The Lemon Tree",
+        "Address": "Midland Highway, Creswick",
+        "Review": "5 stars - something for everyone",
+        "Contributor": "Holly"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8941192626953,
+          -37.42484349689716
+        ]
+      }
+    }
+  ]
+}
