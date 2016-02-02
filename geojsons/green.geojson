@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Green Refectory",
+        "Address": "115 Sydney Road, Brunswick, 3056"
+        "Review": "Cosy. Great food. Great coffee"
+        "Contributor": "Tessa"
+      },
+      
+           "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96074795722961,
+          -37.77476421128662
+        ]
+      }
+    }
+  ]
+}
