@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Druids Cafe Bar",
+        "Address": "409 Swanston Street, CBD, Melbourne, VIC",
+        "Review": "Great cafe with wonderful food and a vibrant atmosphere.",
+        "Contributor": "Manuel Muehlbauer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96320754289627,
+          -37.80886002828841
+        ]
+      }
+    }
+  ]
+}
