@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Jelly Stone",
+        "Address": "179 Albion St, Brunswick",
+        "Review": "Nice building, 4/5.",
+        "Contributor": "Oskar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96407121419907,
+          -37.76086362910393
+        ]
+      }
+    }
+  ]
+}
