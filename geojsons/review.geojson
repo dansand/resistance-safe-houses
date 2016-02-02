@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name:": "Sea Salt Carlton",
+        "Address:": "364 Lygon Street, Carlton",
+        "Review:": "5/5 stars. Burgers, sushi, fish and chips! What more can you want (and so close to the cinema)",
+        "Contributor:": "jolie-cullen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96766805648804,
+          -37.79818743602225
+        ]
+      }
+    }
+  ]
+}
