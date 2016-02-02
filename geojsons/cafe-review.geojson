@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Dane",
+        "Address": "16 Grantham St. West Brunswick 3055",
+        "Review": "5 stars!! Epic Aloo Paratha!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.94894891977307,
+          -37.77530483092466
+        ]
+      }
+    }
+  ]
+}
