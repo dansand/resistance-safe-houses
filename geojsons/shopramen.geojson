@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d24bff",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "name": "Shop Ramen",
+        "address": "329 Smith St, Fitzroy VIC 3065",
+        "review": "Best ramen in Melbs",
+        "contributor": "Harriet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.984050989151,
+          -37.799484505331066
+        ]
+      }
+    }
+  ]
+}
