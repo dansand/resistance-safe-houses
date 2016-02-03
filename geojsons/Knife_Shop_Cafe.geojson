@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "The Knife Shop Cafe",
+        "Address": "287 Wellington St, Collingwood VIC 3066",
+        "Review": "3.9 * Massive Turkish breads. Share one!",
+        "Contributor": "Vejune Zemaityte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.98750567436218,
+          -37.796602098159795
+        ]
+      }
+    }
+  ]
+}
