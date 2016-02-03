@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#4b0e6a",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Mockingbird Lounge",
+        "Address": "63a Broadway Glenelg ",
+        "Review": "5 stars for games and books. Plenty of tables for playing Resistance "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.51726651191711,
+          -34.9879917294835
+        ]
+      }
+    }
+  ]
+}
