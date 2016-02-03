@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Kodiak Club",
+        "Address": "272 Brunswick Street",
+        "Review": "Cheap and tasty Dark and Stormy but their buffalo wings are breaded, what on earth.",
+        "Contributor": "Christine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97849881649017,
+          -37.799281044984816
+        ]
+      }
+    }
+  ]
+}
