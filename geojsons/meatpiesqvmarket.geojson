@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff6600",
+        "marker-size": "medium",
+        "review": "Delicious spicy lamb meat pie, you have not lived until you have one of these",
+        "contributor": "Jonah Duckles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9591064453125,
+          -37.806923139401356
+        ]
+      }
+    }
+  ]
+}
