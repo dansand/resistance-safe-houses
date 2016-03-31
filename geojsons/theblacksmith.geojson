@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "The Blacksmith",
+        "Address": "Belgrave",
+        "Review": "Almond croissants!",
+        "Contributor": "Liz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.35494685173035,
+          -37.90877177569211
+        ]
+      }
+    }
+  ]
+}
