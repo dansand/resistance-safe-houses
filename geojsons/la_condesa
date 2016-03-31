@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "La Condesa",
+        "Address": " 234 Johnston St, Fitzroy VIC 3065",
+        "Review": "Amazing taqueria!",
+        "Contributor": "Carl Higgs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.98278498649597,
+          -37.799009763651384
+        ]
+      }
+    }
+  ]
+}
