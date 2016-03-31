@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7f2a73",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Jack Horner Cafe",
+        "Address": "179 Weston Street",
+        "Review": "Neighbourhood cafe - nice little place to stop by for a cuppa. Also sells some groceries",
+        "Contributor": "Peggy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97161626815796,
+          -37.775760644410504
+        ]
+      }
+    }
+  ]
+}
