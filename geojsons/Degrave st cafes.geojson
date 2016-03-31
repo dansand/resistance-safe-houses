@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fafa40",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Degrave street cafe",
+        "Review": "awesome alleyway with hipster shit",
+        "Address": "Degrace St CBD",
+        "Contributor": "Gill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96591925621033,
+          -37.81762413325405
+        ]
+      }
+    }
+  ]
+}
