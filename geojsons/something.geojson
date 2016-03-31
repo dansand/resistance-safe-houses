@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Dummy Cafe",
+        "Address": "iervliuwe",
+        "Review": "wejhwej"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9561882019043,
+          -37.79744139891327
+        ]
+      }
+    }
+  ]
+}

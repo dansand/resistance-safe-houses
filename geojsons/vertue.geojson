@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name:": "The Vertue of the Coffee",
+        "Address:": "8 Raffa Place, Carlton",
+        "Review:": "Great coffee but there are better options to eat at.",
+        "Contributor:": "Angus Keillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96833056211472,
+          -37.7975770425844
+        ]
+      }
+    }
+  ]
+}

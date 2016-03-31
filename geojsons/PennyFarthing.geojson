@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Penny Farthing",
+        "Address": "High st, Northcote",
+        "Review": "Coffee is amaze",
+        "Contributor": "Yamni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.99828815460205,
+          -37.77422570779561
+        ]
+      }
+    }
+  ]
+}

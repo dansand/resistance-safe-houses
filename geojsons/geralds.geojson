@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Gerald's Bar",
+        "Address": "Rathdowne St Carlton North",
+        "Review": "Wine and service is stellar",
+        "Contributor": "Bonnie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97228145599365,
+          -37.78797963831489
+        ]
+      }
+    }
+  ]
+}

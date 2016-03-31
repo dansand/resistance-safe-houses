@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f70f0f",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "name": "breakfast club",
+        "review": "free wifi, good music, non grumpy staff.",
+        "Address": "St Georges road Thornbury 3073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.99239802360535,
+          -37.765134159211804
+        ]
+      }
+    }
+  ]
+}

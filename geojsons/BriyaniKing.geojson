@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Briyani King",
+        "Address": "72 Victoria Street, Carlton, Vic 3053",
+        "Review": "3 stars",
+        "Contributor": "Noor Suaini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96516287326813,
+          -37.80683413453356
+        ]
+      }
+    }
+  ]
+}

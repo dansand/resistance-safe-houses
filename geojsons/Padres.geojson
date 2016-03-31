@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Brunswick East Project",
+        "Address": "Lygon St Brunswick East",
+        "Review": "Mmmm coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9735689163208,
+          -37.76408245273553
+        ]
+      }
+    }
+  ]
+}

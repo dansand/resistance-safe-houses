@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Stove-top",
+        "Address ": "100 Leicester street",
+        "Review": "Fine. Good pythons upstairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9605843424797,
+          -37.80372737359558
+        ]
+      }
+    }
+  ]
+}
