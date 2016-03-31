@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8080ff",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "Name": "7 Seeds",
+        "Address": "114/106-114 Berkeley St Carlton VIC 3053",
+        "Review": "Good",
+        "Contributor": "Me!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9590903520584,
+          -37.80287966715224
+        ]
+      }
+    }
+  ]
+}
