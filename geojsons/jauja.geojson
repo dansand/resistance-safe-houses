@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4bea",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": " Helados Jauja",
+        "Address": "254 Lygon St",
+        "Review": "Ice-Cream!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96691435575485,
+          -37.801423708630026
+        ]
+      }
+    }
+  ]
+}
