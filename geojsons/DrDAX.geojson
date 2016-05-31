@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Dr. DAX",
+        "Address": "Royal Parade",
+        "Review": "Close proximity to BioSciences",
+        "Contributer": "Dilara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9582803249359,
+          -37.79809418179567
+        ]
+      }
+    }
+  ]
+}
