@@ -7,6 +7,8 @@ Collaboration using Gitub and geojson
 
 There are two methods to contributing on GitHub. The first and most direct is for the owner to grant push access to you. This allows you to clone their repository directly and push changes without requiring their approval. Very convenient, but also a security nightmare and a real hassle to add and remove people from the list.
 
+The second way to contribute is to fork the repository (fork: make a complete copy of the repository in _your_ github account), make changes, then make a pull request to the original owner (pull request: Pull requests let you tell others about changes you've pushed to a repository on GitHub.)
+
 <img src="images/fork.png" width="80" height="80" />
 
 
