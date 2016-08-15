@@ -9,7 +9,11 @@ There are two methods to contributing on GitHub. The first and most direct is fo
 
 The second way to contribute is to fork the repository (fork: make a complete copy of the repository in _your_ github account), make changes, then make a pull request to the original owner (pull request: Pull requests let you tell others about changes you've pushed to a repository on GitHub.)
 
+So, Step 1 is to FORK this repository, which you can do so by pressing the fork icon on this page:
+
 <img src="images/fork.png" width="80" height="80" />
+
+
 
 
 ## Step  2: Adding content in geojson format
