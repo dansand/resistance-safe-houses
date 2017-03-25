@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tsubu Bar",
+        "Address": "gate 6, swanston st, building 1888 university of Melbourne 3010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96211051940918,
+          -37.79845872037568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Lafayette",
+        "Address": "Beach Street",
+        "Review": "4 stars, good rain drop cakes",
+        "Contributor ": "Larson Landes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.93692994117737,
+          -37.842308904162465
+        ]
+      }
+    }
+  ]
+}
